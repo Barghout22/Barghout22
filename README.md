@@ -36,5 +36,5 @@
 
 ### 🗣 connect with me :
 
-<a href="https://linkedin.com/in/mahmoud-barghout" target="_blank"><img width="150" height="150" src="https://github.com/Barghout22/Barghout22/assets/47503525/2f80fc60-028f-4286-b6e2-ebb86c27bafa"/></a>
+<a href="https://linkedin.com/in/mahmoud-barghout" target="_blank"><img width="250" src="https://img.shields.io/badge/-Mahmoud%20Barghout-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
